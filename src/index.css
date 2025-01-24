@@ -1,0 +1,6 @@
+@import "tailwindcss";
+/* Add this to your index.css or global styles */
+html, body {
+  height: 100%;
+  margin: 0;
+}
